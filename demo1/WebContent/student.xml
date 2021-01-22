@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="student.xsl" ?>
+
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+   xsi:noNamespaceSchemaLocation="student.xsd">
+  
+<student eid ="a">
+<name> Geethika </name>
+<id> 190031792 </id>   
+<branch> CSE </branch>
+<cgpa> 8.9 </cgpa>
+</student>
+
+
+<student eid ="b">
+<name> Lakshmi </name>
+<id> 190031111 </id>
+<branch> CSE </branch>
+<cgpa> 10 </cgpa>
+</student>
+
+
+<student eid ="c">
+<name> Snehith </name>
+
+<id> 190031616 </id>
+
+<branch> CSE </branch>
+
+<cgpa> 9.8 </cgpa>
+
+</student>
+
+
+<student eid ="d">
+
+<name> MounaSri </name>
+
+<id> 190031992 </id>
+
+<branch> CSE </branch>
+
+<cgpa> 10 </cgpa>
+
+</student>
+
+
+<student eid ="e">
+<name> Pardhu </name>
+
+<id> 190030727 </id>
+
+<branch> CSE </branch>
+
+<cgpa> 9 </cgpa>
+
+</student>
+
+</Students>
